@@ -9,7 +9,7 @@
 		box-sizing: border-box;
 		}
 		div {
-			margin: 10px;
+			margin: 15px;
 		}
 		h1 {
 		 	margin-bottom: 15px;
