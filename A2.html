@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset = "utf-8">
@@ -67,7 +66,7 @@
 				width: 25%;
 			}
 			.col-lg-4 {
-				width: 32%;
+				width: 31%;
 			}
 			.col-lg-5 {
 				width: 41.66%;
