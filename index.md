@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset = "utf-8">
@@ -9,7 +10,7 @@
 		box-sizing: border-box;
 		}
 		div {
-			margin: 15px;
+			margin: 10px;
 		}
 		h1 {
 		 	margin-bottom: 15px;
@@ -30,6 +31,7 @@
 		p { 
 			padding-top: 30px;
 			padding-bottom: 10px;
+			margin: 10px;
 			width: 90%;
 			margin-right: auto;
 			margin-left: auto;
@@ -66,7 +68,7 @@
 				width: 25%;
 			}
 			.col-lg-4 {
-				width: 31%;
+				width: 32%;
 			}
 			.col-lg-5 {
 				width: 41.66%;
